@@ -1,0 +1,8 @@
+[user]
+	email = solinuxnet@gmail.com
+	name = Mihu
+[core]
+	autocrlf = input
+	safecrlf = true
+[credential]
+	helper = cache
